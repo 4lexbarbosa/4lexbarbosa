@@ -8,7 +8,7 @@
 ---
 
 ### ⚙ Favorite Technologies
-<p align="left">Technologies I use for web development.</p>
+<p align="left">Technologies I use for development.</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
