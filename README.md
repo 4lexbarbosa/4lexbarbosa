@@ -22,17 +22,17 @@
 
 <details>
   <summary>💻 <b>Profile Overview</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaofernandes-DEV&theme=dark&show_icons=true&hide=stars&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=4lexbarbosa&theme=dark&show_icons=true&hide=stars&count_private=true" alt="GitHub Stats">
 </details>
 
 <details>
   <summary>🗒 <b>Languages</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaofernandes-DEV&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lexbarbosa&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Most Used Languages">
 </details>
 
 <details>
   <summary>⚡ <b>Contributions</b></summary>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaofernandes-DEV&theme=github-dark&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4lexbarbosa&theme=github-dark&hide_border=true" alt="Contribution Graph">
 </details>
 
 ---
